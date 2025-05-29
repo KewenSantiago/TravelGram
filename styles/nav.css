@@ -2,6 +2,8 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  
+  line-height: 0;
   padding-block: 20px;
 }
 
@@ -9,7 +11,7 @@ nav ul {
   list-style: none;
   display: flex;
   align-items: center;
-  gap: 20px;
+  gap: 24px;
 
   padding-block: 8px;
 }
