@@ -1,0 +1,15 @@
+footer {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  padding-block: 24px;
+  margin-inline: 32px;
+  font: 18px/150% var(--font-family);
+}
+
+footer ul {
+  list-style: none;
+  align-items: center;
+  display: flex;
+  gap: 16px;
+}
